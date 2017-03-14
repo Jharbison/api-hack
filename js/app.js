@@ -3,7 +3,7 @@ $(function(){
 	var settings = {
 	  "async": true,
 	  "crossDomain": true,
-	  "url": "https://www.stattleship.com/baseball/mlb/games?on=today",
+	  "url": "https://api.stattleship.com/baseball/mlb/games?on=today",
 	  "method": "GET",
 	  "headers": {
 	    "content-type": "application/json",
