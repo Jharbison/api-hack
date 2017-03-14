@@ -7,7 +7,7 @@ $(function(){
 	  "method": "GET",
 	  "headers": {
 	    "content-type": "application/json",
-	    "authorization": "Token token=4fe5a34d5fa6a0e6d69cdf8dee6df958",
+	    "authorization": "Token token=213fb20e0286f9d76a6b6f035ac31db1",
 	    "accept": "application/vnd.stattleship.com; version=1"
 	  }
 	}
